@@ -9,10 +9,15 @@ For this project, A/B test run by an e-commerce website will be analyzed. The ai
 `Python` is required for this porject. The work is also conducted in `jupyter notebook`.
 
 In addition the following software are imported:
+
 •	pandas
+
 •	numpy
+
 •	random
+
 •	matplotlib.pyplot
+
 
 ## contributing
 Please check `Analyze_ab_test_results_notebook`. 
