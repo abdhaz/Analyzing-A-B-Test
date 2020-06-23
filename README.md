@@ -21,6 +21,10 @@ In addition the following software are imported:
 
 ## contributing
 Please check `Analyze_ab_test_results_notebook`. 
+Also, please check `ab_data.csv` for the database used in the analysis
+
 The analysis is performed in a structured tasks and questions. The contribution will be in a form of advice and recommendation on the following:
+
 •	Evaluation of the analysis overall
+
 •	Coding suggestion and improvement
